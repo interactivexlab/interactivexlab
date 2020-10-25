@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, We are [interactive X Lab](https://interactivexlab.com "__XXL__"); a vision-driven, technology-innovation-driven, located-in-University R&D Laboratory focuses on imagine, design, and program Interactive Experiences (X). We are XXL!
 
 <!--
 **interactivexlab/interactivexlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
